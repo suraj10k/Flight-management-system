@@ -1,0 +1,17 @@
+|TICKET INFORMATION:
+
+Name: suraj l
+Phone: 912930192449
+Address: idk,idc
+Passport Number: 
+Origin: BANGLORE
+Destination: HYDERABAD
+Food: Vegetarian
+Number of Seats: 20
+Class: Business
+Date of departure: 10032021
+Time: 4.00 PM
+Ticket: HF12
+Bill(in pakistani rupees): 483540/-
+
+|BOOKING CANCELLED
